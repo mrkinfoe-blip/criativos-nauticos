@@ -1,5 +1,13 @@
 # Revisão de imagem dos cards — 07/09/2026
 
+> **Situação em 20/09/2026 — as duas decisões continuam abertas.** A C1 subiu
+> em 08/09 sem elas: o carrossel que está no ar é o de **3 cards**
+> (`CAR-Procedencia_v2_TresCards`, id `1618418992978160`), com Real 275,
+> NX 280 e Solara 330. A versão de 5 cards existe na conta
+> (`CAR-Procedencia_MARCA-OFICIAL`, id `3383308681840113`) e está parada
+> esperando NX 270 e Focker 242. Enquanto isso, a faixa de preço do anúncio
+> começa em R$ 339 mil — a entrada de R$ 250 mil está fora do ar há 12 dias.
+
 Auditoria feita card a card antes de ativar a C1. Três cards não podem subir do
 jeito que estão. Dois problemas eram meus e já estão corrigidos.
 
